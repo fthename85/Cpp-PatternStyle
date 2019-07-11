@@ -1,2 +1,3 @@
 # Cpp-PatternStyle
-C++ pattern style with vs-code
+
+A program / app made in c++ using only visual studio code with mingw.
