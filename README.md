@@ -6,4 +6,4 @@ How to open instructions:
 1. Clone / Download
 2. Open .exe file inside scene folder
 
-Scips are inside the script folder
+Scripts are inside the script folder
